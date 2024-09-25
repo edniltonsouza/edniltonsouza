@@ -2,7 +2,7 @@
 💼 **Profissão**: Especialista em análise de dados com 7 anos de experiência  
 🔧 **Ferramentas e Tecnologias**: Python, Talend, PostgreSQL, PowerBI, ETL, Protheus, SharePoint, Power Automate  
 🌱 **Atualmente aprendendo**: Aprimorando habilidades em automações e otimização de processos com PyAutoGUI  
-🚀 **Projetos recentes**: Implementação de ETL com Pentaho, automação de extração de dados de PDF 
+🚀 **Projetos recentes**: Implementação de ETL com Pentaho, automação de extração de dados de PDF  
 💡 **Interesses**: Data Science, Automação de Processos, Business Intelligence, Cloud Computing
 
 ---
